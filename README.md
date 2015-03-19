@@ -17,7 +17,6 @@ Veja como é simples:
   | I_COLEND      | TYPE | I        | 100                 |     X     | Coluna final do popup na tela (largura)           |
   | I_LINESTART   | TYPE | I        | 8                   |     X     | Linha inicial do popup na tela                    |
   | I_LINEEND     | TYPE | I        | 28                  |     X     | Linha final do popup na tela (altura)             |
-  | I_TITLE       | TYPE | I        | 'Relatório Simples' |     X     | Título da janela                                  |
   | I_POPUP       | TYPE | I        |                     |     X     | (X) Exibição em POPUP ( ) ALV em tela inteira     |
 
 * Defina a tabela na guia Tabelas:
