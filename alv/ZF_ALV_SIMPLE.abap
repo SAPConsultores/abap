@@ -25,7 +25,7 @@ FUNCTION zf_alv_simple.
   ENDTRY.
 
 * Recupera e habilita todas as funções do ALV (ordenar, filtrar, somar etc.)
-  o_functions = go_alv->get_functions( ).
+  o_functions = o_alv->get_functions( ).
   o_functions->set_all( 'X' ).
 
 * Verifica se o ALV foi criado sem problemas
